@@ -11,7 +11,7 @@ I'm also learning Game Dev and I'm testing out Unity and Godot <code><img height
 <code><img height="30" src="./img/java-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 
-I currently work at Cerner as an Associate Senior Software Engineer. I work on a wide variety of projects, but I am currently working on a Ruby on Rails project as well as an Apache Hadoop data processor.
+<!-- <p>I currently work at Phorest as an Senior Software Engineer. I work on a wide variety of projects, but I am currently working on a Ruby on Rails project as well as an Apache Hadoop data processor.</p> -->
 
 
 <a href="https://www.linkedin.com/in/john-k-0a915096/">
@@ -20,6 +20,6 @@ I currently work at Cerner as an Associate Senior Software Engineer. I work on a
 <!-- <a href="https://www.instagram.com/johnnyk737">
   <img height="20" src="./img/instagram-black.png" alt="John's LinkedIn" />
 </a> -->
-<a href="https://johnnyk737.github.io/">
+<!-- <a href="https://johnnyk737.github.io/">
   <img height="20" src="./img/github-original.svg" alt="John's Webpage" />
-</a>
+</a> -->
